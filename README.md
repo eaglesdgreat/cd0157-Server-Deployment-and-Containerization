@@ -87,5 +87,5 @@ For more detail about each of these steps, see the project lesson.
 
 
 ## Sample Environment variable used
-JWT_SECRET='myjwtsecret'
-LOG_LEVEL=DEBUG
+- JWT_SECRET='myjwtsecret'
+- LOG_LEVEL=DEBUG
